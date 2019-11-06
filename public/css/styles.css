@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "circularstd-bold";
+  src: url("../fonts/circularstd/circularstd-bold.otf");
+}
+@font-face {
+  font-family: "circularstd-bolditalic";
+  src: url("../fonts/circularstd/circularstd-bolditalic.otf");
+}
+@font-face {
+  font-family: "circularstd-book";
+  src: url("../fonts/circularstd/circularstd-book.otf");
+}
+@font-face {
+  font-family: "circularstd-bookitalic";
+  src: url("../fonts/circularstd/circularstd-bookitalic.otf");
+}
+@font-face {
+  font-family: "circularstd-black";
+  src: url("../fonts/circularstd/circularstd-black.otf");
+}
+@font-face {
+  font-family: "circularstd-blackitalic";
+  src: url("../fonts/circularstd/circularstd-blackitalic.otf");
+}
+@font-face {
+  font-family: "circularstd-medium";
+  src: url("../fonts/circularstd/circularstd-medium.otf");
+}
+@font-face {
+  font-family: "circularstd-mediumitalic";
+  src: url("../fonts/circularstd/circularstd-mediumitalic.otf");
+}
